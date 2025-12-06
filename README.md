@@ -15,7 +15,7 @@ Criar um portfólio forte que mostre:
 
 ---
 
-# 🧠 Tecnologias a Dominar
+# 🧠 Tecnologias :
 
 ### **Linguagens**
 - Python  
