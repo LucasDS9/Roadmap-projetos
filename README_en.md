@@ -44,7 +44,7 @@ Build a strong portfolio that shows:
 
 ---
 
-# 🗺️ Roadmap (Recommended Order)
+# 🗺️ Roadmap 
 
 1. **Technical Foundation**  
    - Advanced Python for Data Science  
