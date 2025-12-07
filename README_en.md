@@ -5,7 +5,7 @@ The ultimate goal is to **land my first job as a Data Scientist**.
 
 ---
 
-## 🚀 General Objective
+## 🚀 Objectives :
 
 Build a strong portfolio that shows:
 - Real-world problem solving with Machine Learning  
