@@ -38,9 +38,9 @@ Criar um portfólio forte que mostre:
 - PySpark (futuro)  
 - Pipelines ETL/ELT
 
-### **Deep learning e LLM:**
+### **Deep learning e NLP:**
 - PyTorch
-- LLM
+- NLP  
 ---
 
 # 🗺️ Roadmap (Ordem Recomendada)
