@@ -87,7 +87,7 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, docker, aws
 
 **Deploy:**  
 - Container com **Docker**  
-- Deploy em **AWS EC2**  
+- Deploy em **AWS ECS**  
 - Endpoint REST para previsões
 
 ---
@@ -107,7 +107,7 @@ Python, Pandas, Scikit-learn, Streamlit.
 
 **Deploy:**  
 - Aplicação Streamlit  
-- Deploy direto (Streamlit Cloud ou EC2)
+- Deploy direto (Streamlit Cloud)
 
 ---
 
