@@ -63,7 +63,7 @@ Criar um portfólio forte que mostre:
 4. **Deploy**  
    - Streamlit  
    - Docker  
-   - AWS (EC2 + ECR)  
+   - AWS (EC2, ECS)  
 
 5. **Especialização**  
    - LLMs  
