@@ -111,7 +111,7 @@ Python, Pandas, Scikit-learn, Streamlit.
 
 ---
 
-## 3️⃣ Clusterização — *Segmentação de Clientes / Produtos*
+## 3️⃣ Clusterização — *Segmentação de Clientes Ecommerce*
 **Breve resumo:**  
 Segmentação usando KMeans para criar grupos úteis para estratégias.
 
@@ -122,14 +122,8 @@ Python, Scikit-learn, Seaborn, docker, aws
 - Escolha ótima do número de clusters  
 - Redução de dimensionalidade (PCA)  
 - Melhor visualização dos clusters  
-- Pipeline claro e modular
-
-**Deploy:**  
-- **Docker**  
-- Hospedado na **AWS**  
-- Pequena API para consultar cluster de um novo cliente
-
----
+- Análise dos grupos
+- Estratégia de retenção por cluster
 
 ## 4️⃣ InsightAI — *LLM aplicado a dados*
 **Resumo:**  
