@@ -118,7 +118,8 @@ Python, Pandas, Scikit-learn, Streamlit
 Segmentação com KMeans para estratégias de marketing e retenção.
 
 **Ferramentas:**  
-Python, Scikit-learn, Seaborn
+
+- Python, Scikit-learn, Seaborn
 ---
 
 ## 4️⃣ NLP Reviews com LLM (Ollama + NLP)
