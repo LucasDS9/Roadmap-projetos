@@ -56,7 +56,7 @@ Construir um portfólio sólido que demonstre:
 
 ---
 
-# 📐 Skills de AI Engineer (Em Desenvolvimento)
+# 🤖 Skills de AI Engineer (Em Desenvolvimento)
 
 ### Arquitetura de Sistemas com IA
 - Design de pipelines com LLM
